@@ -4,7 +4,7 @@ Estou aprendendo a programar ! 🤓🤓
 
 
 
-  <img src="./imagens/programação imagem.svg">
+  <img src="./imagens/programação imagem.svg" style="height: 250px; width: 250px;">
 
 
 
