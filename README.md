@@ -1,13 +1,11 @@
 # Olá, Eu sou Diego Brito 👋! 
 
  
-<font size="6"> Estou aprendendo a programar ! 🤓🤓</font>
+<font size="25"> Estou aprendendo a programar ! 🤓🤓</font>
 
-<center> 
+ 
 
   <img src="./imagens/programação imagem.svg" width="400" height="400" >
-  
-</center>
 
 
 
