@@ -1,10 +1,10 @@
-# Ei, Eu sou Diego Brito 👋! 
+# Olá, Eu sou Diego Brito 👋! 
 
 Estou aprendendo a programar ! 🤓🤓
 
+  <img src="./imagens/programação imagem.svg" width="200" height="200" >
 
 
-  <img src="./imagens/programação imagem.svg" style="height: 250px; width: 250px;">
 
 
 
