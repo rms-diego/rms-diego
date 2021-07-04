@@ -2,7 +2,7 @@
 
 Estou aprendendo a programar ! 🤓🤓
 
-  <img src="./imagens/programação imagem.svg" width="200" height="200" >
+  <img src="./imagens/programação imagem.svg" width="400" height="400" >
 
 
 
