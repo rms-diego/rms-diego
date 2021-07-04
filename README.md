@@ -1,4 +1,40 @@
-### Hey, I'm Diego Brito 👋! 
+# Ei, Eu sou Diego Brito 👋! 
+
+Estou aprendendo a programar ! 🤓🤓
+
+
+
+  <img src="./imagens/programação imagem.svg">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **Drb-Diego/Drb-Diego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
