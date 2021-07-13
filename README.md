@@ -1,4 +1,4 @@
-# Olá, Eu sou Diego Brito 👋! 
+# Olá, meu nome é Diego 👋
 
 <div style="text-align:center">
   <p fonteSize> Estou aprendendo a programar ! 🤓🤓</p>
