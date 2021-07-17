@@ -9,7 +9,7 @@ Sou técnico em desenvolvimento de sistemas pelo Senai Cimatec e estudante na tr
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-rbrito/)](https://www.linkedin.com/in/diego-rbrito/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegorbrito9@gmail.com)](mailto:diegorbrito9@gmail.com/)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Drb-Diego/Drb-			Diego/9c29801ad95fbc0ea30c763a6854a6bc46f6713a/imagens/programa%C3%A7%C3%A3o%20imagem.svg" width="450" />
+  <img src="https://raw.githubusercontent.com/Drb-Diego/Drb-Diego/717541b12ec6c9ea8cbcf551b0bdd22e7ba59a8e/imagens/programa%C3%A7%C3%A3o%20imagem.svg" width="450" />
 </p>
 
 
