@@ -1,4 +1,4 @@
-<h1 align="center" size="">
+<h1 align="center">
     Bem vindo(a) ! 
 </h1>  
 
@@ -13,13 +13,14 @@ Sou técnico em desenvolvimento de sistemas pelo Senai Cimatec e estudante na tr
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-rbrito/)](https://www.linkedin.com/in/diego-rbrito/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegorbrito9@gmail.com)](mailto:diegorbrito9@gmail.com/)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Drb-Diego/Drb-Diego/717541b12ec6c9ea8cbcf551b0bdd22e7ba59a8e/imagens/programa%C3%A7%C3%A3o%20imagem.svg" width="450" />
+  <img src="https://raw.githubusercontent.com/Drb-Diego/Drb-Diego/717541b12ec6c9ea8cbcf551b0bdd22e7ba59a8e/imagens/programa%C3%A7%C3%A3o%20imagem.svg" width="450px" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drb-Diego&layout=compact)](https://github.com/Drb-Diego/github-readme-stats)
+<p align="center">
+   <img width="400px" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drb-Diego&hide=html&layout=compact" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drb-Diego)](https://github.com/Drb-Diego/github-readme-stats)
-
+    <img width="400px" style="display: flex;" src="https://github-readme-stats.vercel.app/api?username=Drb-Diego&show_icons=true" />
+</p>  
 
 
 
