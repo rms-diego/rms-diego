@@ -1,5 +1,5 @@
 <h1 align="center">
-   <font size="20"> Olá, tudo bem ?</font>
+    Olá, tudo bem ?
 </h1>  
 
  <p align="center">
