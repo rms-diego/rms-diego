@@ -2,13 +2,14 @@
    <font size="20"> Olá, tudo bem ?</font>
 </h1>  
 
- <h2 align="center">
+ <p align="center">
 	<font size="6">Bem vindo(a) ! </font>
-</h2>
+</p>
 <br>
 <br>
 
-Meu nome é **Diego Brito** 😁, tenho 20 anos e sou natural de Salvador - BA.<br>
+Meu nome é **Diego Brito** 😁, tenho 20 anos e sou natural de Salvador - BA.
+<br>
 Sou técnico em desenvolvimento de sistemas pelo Senai Cimatec e estudante na trybe. Apaixonado por games e series, venho me aventurando no mundo da programação. 🚀🚀
 
 
