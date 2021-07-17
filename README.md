@@ -1,9 +1,10 @@
-# Olá, tudo bem ?
+<h1 align="center">
+   <font size="20"> Olá, tudo bem ?</font>
+</h1>  
 
-
-<p align="center">
-   <font size="5">Bem vindo(a) ! </font>
-</p>  
+ <div align="center">
+	   <font size="6">Bem vindo(a) ! </font>
+</div>  
 
 Meu nome é **Diego Brito** 😁, tenho 20 anos e sou natural de Salvador - BA.<br>
 Sou técnico em desenvolvimento de sistemas pelo Senai Cimatec e estudante na trybe. Apaixonado por games e series, venho me aventurando no mundo da programação. 🚀🚀
