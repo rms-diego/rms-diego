@@ -1,12 +1,16 @@
-# Olá, meu nome é Diego 👋
 
-<div style="text-align:center">
-  <p fonteSize> Estou aprendendo a programar ! 🤓🤓</p>
+# Olá, Eu sou Diego Brito  !  👋
 
+Bem vindo(a) ! 
 
-  <img src="./imagens/programação imagem.svg" width="400" height="400" >
-</div>
+Meu nome é Diego Brito, tenho 20 anos, sou natural de Salvador - BA. 
+Sou técnico em desenvolvimento de sistemas pelo Senai Cimatec e estudante na trybe. Apaixonado por games e series, venho me aventurando no mundo da programação. 🚀🚀
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-rbrito/)](https://www.linkedin.com/in/diego-rbrito/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegorbrito9@gmail.com)](mailto:diegorbrito9@gmail.com/)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Drb-Diego/Drb-			Diego/9c29801ad95fbc0ea30c763a6854a6bc46f6713a/imagens/programa%C3%A7%C3%A3o%20imagem.svg" width="450" />
+</p>
 
 
 
