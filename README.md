@@ -1,10 +1,7 @@
-<h1 align="center">
-    Olá, tudo bem ?
+<h1 align="center" size="">
+    Bem vindo(a) ! 
 </h1>  
 
- <p align="center">
-	<font size="6">Bem vindo(a) ! </font>
-</p>
 <br>
 <br>
 
