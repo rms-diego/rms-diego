@@ -16,11 +16,11 @@ Sou técnico em desenvolvimento de sistemas pelo Senai Cimatec e estudante na tr
   <img src="https://raw.githubusercontent.com/Drb-Diego/Drb-Diego/717541b12ec6c9ea8cbcf551b0bdd22e7ba59a8e/imagens/programa%C3%A7%C3%A3o%20imagem.svg" width="450px" />
 </p>
 
-<p align="center">
-   <img width="400px" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drb-Diego&hide=html&layout=compact" />
 
-    <img width="400px" style="display: flex;" src="https://github-readme-stats.vercel.app/api?username=Drb-Diego&show_icons=true" />
-</p>  
+   <img width="400px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drb-Diego&hide=html&layout=compact" />
+
+    <img width="400px"  src="https://github-readme-stats.vercel.app/api?username=Drb-Diego&show_icons=true" />
+ 
 
 
 
