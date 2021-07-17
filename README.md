@@ -2,9 +2,9 @@
    <font size="20"> Olá, tudo bem ?</font>
 </h1>  
 
- <div align="center">
+ <h2 align="center">
 	<font size="6">Bem vindo(a) ! </font>
-</div>
+</h2>
 <br>
 <br>
 
