@@ -16,6 +16,7 @@ Sou técnico em desenvolvimento de sistemas pelo Senai Cimatec e estudante na tr
   <img src="https://raw.githubusercontent.com/Drb-Diego/Drb-Diego/717541b12ec6c9ea8cbcf551b0bdd22e7ba59a8e/imagens/programa%C3%A7%C3%A3o%20imagem.svg" width="450" />
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drb-Diego&layout=compact)](https://github.com/Drb-Diego/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drb-Diego)](https://github.com/Drb-Diego/github-readme-stats)
 
