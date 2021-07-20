@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://i1.wp.com/planime.fansub.pt/wp-content/uploads/2013/12/tumblr_inline_mmc8vtlis51qz4rgp.gif?resize=500%2C270&ssl=1" width="450px" />
+  <img src="https://64.media.tumblr.com/6b1e1373c5b876aa099c64f6e13c3fd6/tumblr_mju6egEyuK1r5h4nvo1_400.gif" width="500px" height="300px" />
 </p>
-
-
 
 <h1 align="center">
     Bem vindo(a) ! 
