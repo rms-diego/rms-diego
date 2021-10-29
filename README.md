@@ -46,25 +46,16 @@ Sou técnico em desenvolvimento de sistemas pelo Senai Cimatec e estudante na tr
 </br>
 </br>
 
+<div align="center" >
 
-<div display="inline">
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drb-Diego&layout=compact&theme=merko&langs_count=10)
-
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drb-Diego&show_icons=true&theme=merko)
+  
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drb-Diego&layout=compact&theme=merko&langs_count=10)    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drb-Diego&show_icons=true&theme=merko)
 </div>
 
+
+
  
-
-
-
-
-
-
-
-
-
 
 
 
