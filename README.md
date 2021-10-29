@@ -14,7 +14,8 @@ Meu nome é **Diego Brito** 😁, tenho 20 anos e sou natural de Salvador - BA.
 Sou técnico em desenvolvimento de sistemas pelo Senai Cimatec e estudante na trybe. Apaixonado por games e series, venho me aventurando no mundo da programação. 🚀🚀
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-rbrito/)](https://www.linkedin.com/in/diego-rbrito/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegorbrito9@gmail.com)](mailto:diegorbrito9@gmail.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-rbrito/)](https://www.linkedin.com/in/diego-rbrito/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegorbrito9@gmail.com)](mailto:diegorbrito9@gmail.com/)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Drb-Diego/Drb-Diego/717541b12ec6c9ea8cbcf551b0bdd22e7ba59a8e/imagens/programa%C3%A7%C3%A3o%20imagem.svg" width="300px" />
@@ -26,6 +27,7 @@ Sou técnico em desenvolvimento de sistemas pelo Senai Cimatec e estudante na tr
 
 <div align="center">
   <h1 >Principais stacks</h1>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -35,6 +37,7 @@ Sou técnico em desenvolvimento de sistemas pelo Senai Cimatec e estudante na tr
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" />
 </div>
 
 <h1></h1>
