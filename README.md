@@ -49,7 +49,7 @@ const myself = {
 <h1></h1>
 
 <div align="center">
-  <img width="300rem" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drb-Diego&layout=compact&theme=merko&langs_count=10" style="display: inline-block;"/>
-  <img width="300rem" height="300em" src="https://github-readme-stats.vercel.app/api?username=Drb-Diego&show_icons=true&theme=merko" style="display: inline-block;"/>
+  <img width="400rem" height="400rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drb-Diego&layout=compact&theme=merko&langs_count=10" style="display: inline-block;"/>
+  <img width="400rem" height="400rem" src="https://github-readme-stats.vercel.app/api?username=Drb-Diego&show_icons=true&theme=merko" style="display: inline-block;"/>
 </div>
 
