@@ -50,7 +50,7 @@ const myself = {
 </br>
 </br>
 
-<div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drb-Diego&layout=compact&theme=merko&langs_count=10">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drb-Diego&layout=compact&theme=merko&langs_count=10" >
   <img src="https://github-readme-stats.vercel.app/api?username=Drb-Diego&show_icons=true&theme=merko" align="rigth">
 </div>
