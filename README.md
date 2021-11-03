@@ -8,7 +8,7 @@
 
 const eu = {
  name: "Diego Ramos Brito",
- Age: 20,
+ age: 20,
  address: "Salvador-BA",
  acknowledgements: "Desenvolverdor Web Full Stack",
  softSkills: Array.of("Proatividade", "Comunicação eficiente", "Muito bem humorado 😁"),
