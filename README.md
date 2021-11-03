@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://64.media.tumblr.com/6b1e1373c5b876aa099c64f6e13c3fd6/tumblr_mju6egEyuK1r5h4nvo1_400.gif" width="400px" height="200px" />
-</p>
-
 <h1 align="center">
     Bem vindo(a) ! 
 </h1>  
