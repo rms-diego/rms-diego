@@ -23,9 +23,20 @@ const myself = {
   <p>Sou técnico em desenvolvimento de sistemas pelo Senai Cimatec e estudante na trybe. Apaixonado por games e series, venho me aventurando no mundo da programação. 🚀🚀</p>
   </div>
 
-  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-rbrito/) 
+  <a target="_blank">
+
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-rbrito/)
+  </a>
+
+  <a target="_blank">
+
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegorbrito9@gmail.com/)
+  </a>
+
+  <a target="_blank">
+  
   [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5571993804648)
+  </a>
 </div>
 
 <div>
@@ -46,10 +57,7 @@ const myself = {
   </div>
 </div>
 
-<h1></h1>
-
 <div align="center">
   <img width="400rem" height="400rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drb-Diego&layout=compact&theme=merko&langs_count=10" style="display: inline-block;"/>
   <img width="400rem" height="400rem" src="https://github-readme-stats.vercel.app/api?username=Drb-Diego&show_icons=true&theme=merko" style="display: inline-block;"/>
 </div>
-
