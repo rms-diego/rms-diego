@@ -1,8 +1,6 @@
 <h1 align="center">
     Bem vindo(a) ! 
-</h1>  
-
-<br>
+</h1>
 <br>
 
 Meu nome é **Diego Brito** 😁, tenho 20 anos e sou natural de Salvador - BA.
@@ -17,8 +15,6 @@ Sou técnico em desenvolvimento de sistemas pelo Senai Cimatec e estudante na tr
   <img src="https://raw.githubusercontent.com/Drb-Diego/Drb-Diego/717541b12ec6c9ea8cbcf551b0bdd22e7ba59a8e/imagens/programa%C3%A7%C3%A3o%20imagem.svg" width="300px" />
 </p>
 
-</br>
-</br>
 </br>
 
 <div align="center">
