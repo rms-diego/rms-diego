@@ -16,7 +16,7 @@ const myself = {
 
 ```
 
-<h1>Sobre mim</h1>
+<h1>Sobre mim 😉</h1>
 
 <p>Sou técnico em desenvolvimento de sistemas pelo Senai Cimatec e estudante na trybe. Apaixonado por games e series, venho me aventurando no mundo da programação. 🚀🚀</p>
 
@@ -31,7 +31,7 @@ const myself = {
 </br>
 
 <div>
-  <h1 >Principais Tecnologias</h1>
+  <h1 >Principais Tecnologias 👨‍💻</h1>
   <div align="center">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
