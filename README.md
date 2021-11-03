@@ -6,7 +6,7 @@
 
 ```javascript
 
-const eu = {
+const myself = {
  name: "Diego Ramos Brito",
  age: 20,
  address: "Salvador-BA",
