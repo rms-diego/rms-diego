@@ -15,17 +15,18 @@ const myself = {
 }
 
 ```
-<div>
+<div align="center">
+  <div align="left"> 
+  
   <h1>Sobre mim 😉</h1>
 
   <p>Sou técnico em desenvolvimento de sistemas pelo Senai Cimatec e estudante na trybe. Apaixonado por games e series, venho me aventurando no mundo da programação. 🚀🚀</p>
+  </div>
 
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-rbrito/) 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegorbrito9@gmail.com/)
   [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5571993804648)
 </div>
-
-</br>
 
 <div>
   <h1 >Principais Tecnologias 👨‍💻</h1>
@@ -50,7 +51,7 @@ const myself = {
 </br>
 </br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drb-Diego&layout=compact&theme=merko&langs_count=10" >
-  <img src="https://github-readme-stats.vercel.app/api?username=Drb-Diego&show_icons=true&theme=merko" align="rigth">
+  <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drb-Diego&layout=compact&theme=merko&langs_count=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Drb-Diego&show_icons=true&theme=merko"/>
 </div>
