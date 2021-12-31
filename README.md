@@ -8,7 +8,7 @@
 
 const myself = {
  name: "Diego Ramos Brito",
- age: 20,
+ age: 21,
  address: "Salvador-BA",
  employment: "Desenvolvedor Web Full Stack",
  softSkills: Array.of("Proatividade", "Comunicação eficiente", "Muito bem humorado 😁"),
