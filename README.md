@@ -11,7 +11,6 @@ const myself = {
  age: 21,
  address: "Salvador-BA",
  employment: "Desenvolvedor Web Full Stack",
- softSkills: Array.of("Proatividade", "Comunicação eficiente", "Muito bem humorado 😁"),
 }
 
 ```
