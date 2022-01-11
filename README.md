@@ -47,6 +47,14 @@ const myself = {
   </div>
 </div>
 
+<div>
+  <h1 >O que estou estudando 📚</h1>
+  <div align="center">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  </div>
+</div>
+
 <div align="center">
   <img width="400rem" height="400rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drb-Diego&layout=compact&theme=merko&langs_count=10" style="display: inline-block;"/>
   <img width="400rem" height="400rem" src="https://github-readme-stats.vercel.app/api?username=Drb-Diego&show_icons=true&theme=merko" style="display: inline-block;"/>
