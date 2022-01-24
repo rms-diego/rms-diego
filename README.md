@@ -22,7 +22,7 @@ const myself = {
 </div>
 
 <div align="center">
-	<h1 >Principais Tecnologias 👨‍💻</h1>
+	<h1> Hard Skills 👨‍💻</h1>
       <div> 
         <h3> Main Stack </h3>
         <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
