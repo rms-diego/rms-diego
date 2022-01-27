@@ -1,7 +1,7 @@
 ```javascript
 
 const myself = {
- greeting: "Bem vindo(a) ! 👋"
+ greeting: "Bem vindo(a) ! 👋",
  name: "Diego Ramos Brito",
  age: 21,
  address: "Salvador-BA",
