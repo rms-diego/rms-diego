@@ -35,14 +35,6 @@ const myself = {
   <img style="display: inline-block;" height="30" width="80" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </div>
 
-#
-
-<details open="">
-<summary>
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
-  <span> 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 : </span>
-</summary>
-
 <div align="center">
   <img width="300rem" height="300rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drb-Diego&layout=compact&theme=merko&langs_count=10" style="display: inline-block;"/>
   <img width="300rem" height="300rem" src="https://github-readme-stats.vercel.app/api?username=Drb-Diego&show_icons=true&theme=merko" style="display: inline-block;"/>
