@@ -19,6 +19,14 @@ const myself = {
   <img align="top" height="27" width="80" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
 </div>
 
+</br>
+<h2>Outros</h2>
+<div>
+  <img align="top" height="30" width="80" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img align="top" height="30" width="80" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img align="top" height="30" width="80" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+</div>
+
 #
 
 <details open="">
