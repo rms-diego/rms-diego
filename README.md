@@ -19,7 +19,6 @@ const myself = {
   <img style="display: inline-block;" height="27" width="80" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
 </div>
 
-</br>
 <h2>Outros</h2>
 <div>
   <img style="display: inline-block;" height="30" width="80" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
