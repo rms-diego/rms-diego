@@ -13,11 +13,25 @@ const myself = {
 
 <h2>Principais tecnologias</h2>
 
-<img width="100" align="bottom" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img width="100" align="bottom" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img width="100" align="bottom" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img width="100" align="bottom" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img width="100" align="bottom" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+<table>
+  <tr>
+    <td valign="top">
+      <img width="100" align="bottom" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    </td>
+    <td valign="top">
+      <img width="100" align="bottom" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    </td>
+    <td valign="top">
+      <img width="100" align="bottom" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    </td>
+    <td valign="top">
+      <img width="100" align="bottom" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+    </td>
+    <td valign="top">
+      <img width="100" align="bottom" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+    </td>
+  </tr>
+</table>
 
 <br/>
 <br/>
