@@ -8,8 +8,8 @@ const myself = {
 };
 ```
 
-<li> Desenvolvedor <strong>Full Stack</strong>, <strong>NodeJs</strong> <strong>ReactJs</strong></li>
-<li> Aprendendo atualmente <strong> Next.js</strong>, <strong> Nest.js </strong></li>
+<li> Desenvolvedor <strong>Full Stack</strong>, <strong>NodeJs</strong> <strong>ReactJs</strong>.</li>
+<li> Aprendendo atualmente <strong> Next.js</strong>, <strong> Nest.js </strong>.</li>
 
 <h2>Principais tecnologias</h2>
 
