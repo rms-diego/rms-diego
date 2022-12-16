@@ -14,17 +14,17 @@ const myself = {
 <h2>Principais tecnologias</h2>
 
 <div>
-  <img align="top" height="30" width="80" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="top" height="27" width="80" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img align="top" height="27" width="80" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img style="display: inline-block;" height="30" width="80" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img style="display: inline-block;" height="27" width="80" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img style="display: inline-block;" height="27" width="80" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
 </div>
 
 </br>
 <h2>Outros</h2>
 <div>
-  <img align="top" height="30" width="80" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img align="top" height="30" width="80" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img align="top" height="30" width="80" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img style="display: inline-block;" height="30" width="80" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img style="display: inline-block;" height="30" width="80" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img style="display: inline-block;" height="30" width="80" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </div>
 
 #
@@ -37,8 +37,8 @@ const myself = {
 <br>
 
 <div align="center">
-  <img width="400rem" height="400rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drb-Diego&layout=compact&theme=merko&langs_count=10" style="display: inline-block;"/>
-  <img width="400rem" height="400rem" src="https://github-readme-stats.vercel.app/api?username=Drb-Diego&show_icons=true&theme=merko" style="display: inline-block;"/>
+  <img width="300rem" height="300rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drb-Diego&layout=compact&theme=merko&langs_count=10" style="display: inline-block;"/>
+  <img width="300rem" height="300rem" src="https://github-readme-stats.vercel.app/api?username=Drb-Diego&show_icons=true&theme=merko" style="display: inline-block;"/>
 </div>
 
 <br>
