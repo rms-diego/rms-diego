@@ -18,21 +18,55 @@ const myself = {
 
 <li> Desenvolvedor <strong>Full Stack</strong>, <strong>NodeJs</strong> <strong>ReactJs</strong></li>
 <li> Aprendendo atualmente <strong> Next.js</strong>, <strong>Nest.js</strong>, <strong>Clean architecture</strong></li>
+</br>
 
-<h2>Principais tecnologias</h2>
+<strong><h2>Stack Principal</h2></strong>
 
 <div>
-  <img style="display: inline-block;" height="30" width="80" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img style="display: inline-block;" height="27" width="80" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img style="display: inline-block;" height="27" width="80" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img style="display: inline-block;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img style="display: inline-block;" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  
+  
 </div>
 
-</br>
-<h2>Outros</h2>
+#
+
+<strong><h3>Front-End</h3></strong>
+
 <div>
-  <img style="display: inline-block;" height="30" width="80" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img style="display: inline-block;" height="30" width="80" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img style="display: inline-block;" height="30" width="80" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img style="display: inline-block;" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img style="display: inline-block;" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img style="display: inline-block;" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
+  <img style="display: inline-block;" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img style="display: inline-block;" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+</div>
+
+#
+
+<strong><h3>Back-End</h3></strong>
+
+<div>
+  <img style="display: inline-block;" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img style="display: inline-block;" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img style="display: inline-block;" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
+  <img style="display: inline-block;" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+  <img style="display: inline-block;" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
+</div>
+
+#
+
+<strong><h3>Ferramentas</h3></strong>
+
+<div>
+  <img style="display: inline-block;" src="https://img.shields.io/badge/MySql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img style="display: inline-block;" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img style="display: inline-block;" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
+  <img style="display: inline-block;" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
+  <img style="display: inline-block;" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
+  <img style="display: inline-block;" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img style="display: inline-block;" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img style="display: inline-block;" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <img style="display: inline-block;" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </div>
 
 <div align="center">
