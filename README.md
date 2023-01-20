@@ -54,4 +54,3 @@ const myself = {
   <img width="350rem" height="350rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rms-diego&layout=compact&theme=dracula&langs_count=10" style="display: inline-block;"/>
   <img width="350rem" height="350rem" src="https://github-readme-stats.vercel.app/api?username=rms-diego&show_icons=true&theme=dracula" style="display: inline-block;"/>
 </div>
-
