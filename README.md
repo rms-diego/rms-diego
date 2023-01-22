@@ -17,7 +17,7 @@ const myself = {
 </div>
 
 <li> Desenvolvedor <strong>Full Stack</strong>, <strong>NodeJs</strong>, <strong>ReactJs</strong>.</li>
-<li> Aprendendo atualmente <strong> Next.js</strong>, <strong>Nest.js</strong>, <strong>Clean architecture</strong>.</li>
+<li> Aprendendo atualmente <strong> Next.js</strong>, <strong>Nest.js</strong>, <strong>React Native</strong>, <strong>Clean architecture</strong>.</li>
 </br>
 
 <strong><h2>Stack Principal</h2></strong>
