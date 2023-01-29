@@ -20,6 +20,12 @@ const myself = {
 <li> Aprendendo atualmente <strong> Next.js</strong>, <strong>Nest.js</strong>, <strong>React Native</strong>, <strong>Clean architecture</strong>.</li>
 </br>
 
+<details>
+<summary>Tecnologias</summary>
+<br>
+
+
+
 <strong><h2>Stack Principal</h2></strong>
 
 <div>
@@ -54,3 +60,6 @@ const myself = {
   <img width="350rem" height="350rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rms-diego&layout=compact&theme=dracula&langs_count=10" style="display: inline-block;"/>
   <img width="350rem" height="350rem" src="https://github-readme-stats.vercel.app/api?username=rms-diego&show_icons=true&theme=dracula" style="display: inline-block;"/>
 </div>
+  
+</details>
+
