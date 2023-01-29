@@ -21,7 +21,7 @@ const myself = {
 </br>
 
 <details>
-  <summary><h1>Tecnologias</h1></summary>
+  <summary><h3>Tecnologias</h3></summary>
 <br>
 
 
