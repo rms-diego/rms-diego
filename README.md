@@ -4,7 +4,7 @@ const myself = {
   name: "Diego Ramos Brito",
   age: 22,
   address: "Salvador-BA",
-  employment: "Desenvolvedor Web Full Stack",
+  employment: "Desenvolvedor Fullstack",
 };
 ```
 
