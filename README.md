@@ -53,7 +53,13 @@ const myself = {
 <strong><h3>Banco de dados | Ferramentas</h3></strong>
 
 <div>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase,redis,vscode,heroku,vercel,git,docker,figma,xd,linux" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase,redis" />
+</div>
+  
+<strong><h3>Ferramentas</h3></strong>
+
+<div>
+  <img src="https://skillicons.dev/icons?i=vscode,heroku,vercel,git,docker,figma,xd,linux" />
 </div>
 
 <div align="center">
