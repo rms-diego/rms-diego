@@ -50,7 +50,7 @@ const myself = {
 
 #
 
-<strong><h3>Banco de dados | Ferramentas</h3></strong>
+<strong><h3>Banco de dados</h3></strong>
 
 <div>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase,redis" />
