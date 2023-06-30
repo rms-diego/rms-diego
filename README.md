@@ -1,7 +1,7 @@
 ```javascript
 const myself = {
   greeting: "Bem vindo(a) ! 👋",
-  name: "Diego Ramos Brito",
+  name: "Diego Ramos",
   age: 22,
   address: "Salvador-BA",
   employment: "Desenvolvedor Fullstack",
