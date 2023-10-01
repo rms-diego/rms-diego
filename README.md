@@ -54,11 +54,21 @@ const myself = {
 <div>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase,redis" />
 </div>
+
+#
+
+<strong><h3>Infra</h3></strong>
+
+<div>
+  <img src="https://skillicons.dev/icons?i=nginx,aws,heroku,vercel" />
+</div>
+
+#
   
 <strong><h3>Ferramentas</h3></strong>
 
 <div>
-  <img src="https://skillicons.dev/icons?i=vscode,heroku,vercel,git,docker,figma,xd,linux" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,docker,figma,xd,linux" />
 </div>
 
 <div align="center">
