@@ -44,7 +44,7 @@ const myself = {
 <strong><h3>Back-End</h3></strong>
 
 <div>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,express,graphql" />
 </div>
 
 #
