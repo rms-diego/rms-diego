@@ -2,7 +2,7 @@
 const myself = {
   greeting: "Bem vindo(a) ! 👋",
   name: "Diego Ramos",
-  age: 23,
+  age: 24,
   address: "Salvador-BA",
   employment: "Desenvolvedor Fullstack",
 };
