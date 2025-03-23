@@ -41,7 +41,7 @@ const myself = {
 
 ##
 
-<div align="center" style="display: flex; gap: 20px; justify-content: center; align-items: center;">
+<div align="center" style="display: flex; gap: 8px; justify-content: center; align-items: center;">
   <img 
     width="300" height="250"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rms-diego&layout=compact&theme=dracula&langs_count=10" 
