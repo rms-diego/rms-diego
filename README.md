@@ -1,10 +1,17 @@
+<h2> Hi, I'm Diego Ramos!</h2>
+<img align='right' src="./image/icon.svg" width="230" height="300">
+<p>
+  <em>Software Enginner at <a href="https://winnin.com/">Winnin</a></em>
+</p>
+
 ```javascript
 const myself = {
   greeting: "Bem vindo(a) ! 👋",
   name: "Diego Ramos",
   age: 24,
-  address: "Salvador-BA",
+  from: "Salvador - BA",
   employment: "Desenvolvedor Fullstack",
+  architecture: ["microservices", "event-driven", "design system pattern", "mvc", "mvcs"],
 };
 ```
 
@@ -16,65 +23,21 @@ const myself = {
 
 </div>
 
-<li> Desenvolvedor <strong>Full Stack</strong>, <strong>Node.Js</strong>, <strong>React.Js</strong>, <strong>React Native</strong>.</li>
-</br>
+# Skills
 
-<details>
-  <summary><h3>Tecnologias</h3></summary>
-<br>
+[![My Skills](https://skillicons.dev/icons?i=golang,js,ts,nodejs,react,nest,express,graphql,docker,postgres,mysql,redis,mongo)](https://skillicons.dev)
 
+##
 
+<div align="center" style="display: flex; gap: 20px; justify-content: center; align-items: center;">
+  <img 
+    width="350rem" 
+    height="350rem" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rms-diego&layout=compact&theme=dracula&langs_count=10" 
+    style="display: inline-block;"
+  />
 
-<strong><h2>Stack Principal</h2></strong>
-
-<div>
-  <img src="https://skillicons.dev/icons?i=js,ts" />
-</div>
-
-#
-
-<strong><h3>Front-End</h3></strong>
-
-<div>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,styledcomponents,sass" />
-</div>
-
-#
-
-<strong><h3>Back-End</h3></strong>
-
-<div>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,express,graphql" />
-</div>
-
-#
-
-<strong><h3>Banco de dados</h3></strong>
-
-<div>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase,redis" />
-</div>
-
-#
-
-<strong><h3>Infra</h3></strong>
-
-<div>
-  <img src="https://skillicons.dev/icons?i=nginx,aws,heroku,vercel" />
-</div>
-
-#
-  
-<strong><h3>Ferramentas</h3></strong>
-
-<div>
-  <img src="https://skillicons.dev/icons?i=vscode,git,docker,figma,xd,linux" />
-</div>
-
-<div align="center">
-  <img width="350rem" height="350rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rms-diego&layout=compact&theme=dracula&langs_count=10" style="display: inline-block;"/>
   <img width="350rem" height="350rem" src="https://github-readme-stats.vercel.app/api?username=rms-diego&show_icons=true&theme=dracula" style="display: inline-block;"/>
 </div>
   
 </details>
-
