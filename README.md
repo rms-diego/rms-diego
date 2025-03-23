@@ -11,7 +11,13 @@ const myself = {
   age: 24,
   from: "Salvador - BA",
   employment: "Desenvolvedor Fullstack",
-  architecture: ["microservices", "event-driven", "design system pattern", "mvc", "mvcs"],
+  architecture: [
+    "microservices",
+    "event-driven",
+    "design system pattern",
+    "mvc",
+    "mvcs"
+  ],
 };
 ```
 
