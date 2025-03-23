@@ -1,23 +1,17 @@
 <h2> Hi, I'm Diego Ramos!</h2>
 <img align='right' src="./image/icon.svg" width="230" height="300">
 <p>
-  <em>Software Enginner at <a href="https://winnin.com/">Winnin</a></em>
+  <em>Software Engineer at <a href="https://winnin.com/">Winnin</a></em>
 </p>
 
 ```javascript
 const myself = {
-  greeting: "Bem vindo(a) ! 👋",
+  greeting: "Welcome! 👋",
   name: "Diego Ramos",
   age: 24,
   from: "Salvador - BA",
-  employment: "Desenvolvedor Fullstack",
-  architecture: [
-    "microservices",
-    "event-driven",
-    "design system pattern",
-    "mvc",
-    "mvcs"
-  ],
+  employment: "Software Engineer",
+  architecture: ["microservices", "event-driven", "mvc", "mvcs"],
 };
 ```
 
@@ -49,13 +43,17 @@ const myself = {
 
 <div align="center" style="display: flex; gap: 20px; justify-content: center; align-items: center;">
   <img 
-    width="350rem" 
-    height="350rem" 
+    width="350" height="300"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rms-diego&layout=compact&theme=dracula&langs_count=10" 
     style="display: inline-block;"
   />
 
-  <img width="350rem" height="350rem" src="https://github-readme-stats.vercel.app/api?username=rms-diego&show_icons=true&theme=dracula" style="display: inline-block;"/>
+<img 
+    width="350" height="300"
+    src="https://github-readme-stats.vercel.app/api?username=rms-diego&show_icons=true&theme=dracula" 
+    style="display: inline-block;"
+  />
+
 </div>
   
 </details>
