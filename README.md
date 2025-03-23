@@ -55,5 +55,3 @@ const myself = {
   />
 
 </div>
-  
-</details>
