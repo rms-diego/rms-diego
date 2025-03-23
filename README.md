@@ -37,7 +37,11 @@ const myself = {
 
 # Skills
 
-[![My Skills](https://skillicons.dev/icons?i=golang,js,ts,nodejs,react,nest,express,graphql,docker,postgres,mysql,redis,mongo)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=golang,js,ts,nodejs,react,nest,express,graphql,docker,postgres,mysql,redis,mongo" />
+</p>
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=golang,js,ts,nodejs,react,nest,express,graphql,docker,postgres,mysql,redis,mongo)](https://skillicons.dev) -->
 
 ##
 
@@ -50,7 +54,7 @@ const myself = {
   &nbsp;&nbsp;&nbsp;
   <img
       width="300"
-      height="300"
+      height="250"
       src="https://github-readme-stats.vercel.app/api?username=rms-diego&show_icons=true&theme=dracula"
     />
 
