@@ -21,15 +21,15 @@ const myself = {
 
 <div align='center' style="display: flex; gap: 8px; justify-content: center; align-items: center; width: 100%;">
 
-<a href="https://www.linkedin.com/in/diego-rbrito/">
+<a href="https://www.linkedin.com/in/diego-rbrito/" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:diegorbrito9@gmail.com">
+<a href="mailto:diegorbrito9@gmail.com" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://api.whatsapp.com/send?phone=5571993804648">
+<a href="https://api.whatsapp.com/send?phone=5571993804648" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
@@ -43,15 +43,15 @@ const myself = {
 
 <div align="center" style="display: flex; gap: 8px; justify-content: center; align-items: center;">
   <img 
-    width="300" height="250"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rms-diego&layout=compact&theme=dracula&langs_count=10" 
-    style="display: inline-block;"
+    width="300"
+    height="250"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rms-diego&layout=compact&theme=dracula&langs_count=8" 
   />
 
-<img 
-    width="300" height="250"
-    src="https://github-readme-stats.vercel.app/api?username=rms-diego&show_icons=true&theme=dracula" 
-    style="display: inline-block;"
+<img
+    width="300"
+    height="250"
+    src="https://github-readme-stats.vercel.app/api?username=rms-diego&show_icons=true&theme=dracula"
   />
 
 </div>
