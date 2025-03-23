@@ -49,7 +49,7 @@ const myself = {
   />
   <img
     width="300"
-    height="250"
+    height="300"
     src="https://github-readme-stats.vercel.app/api?username=rms-diego&show_icons=true&theme=dracula"
   />
 </p>
