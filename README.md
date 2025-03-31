@@ -11,7 +11,6 @@ const myself = {
   age: 24,
   from: "Salvador - BA",
   employment: "Software Engineer",
-  architecture: ["microservices", "event-driven", "mvc", "mvcs"],
 };
 ```
 
