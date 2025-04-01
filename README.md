@@ -1,5 +1,5 @@
 <h2> Hi, I'm Diego Ramos!</h2>
-<img align='right' src="./image/icon.svg" width="230" height="300">
+<img align='right' src="./image/icon.svg" width="230" height="250">
 <p>
   <em>Software Engineer at <a href="https://winnin.com/">Winnin</a></em>
 </p>
