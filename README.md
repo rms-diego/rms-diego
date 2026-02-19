@@ -20,7 +20,7 @@ const myself = {
 
 <div align='center' style="display: flex; gap: 8px; justify-content: center; align-items: center; width: 100%;">
 
-<a href="https://www.linkedin.com/in/diego-rbrito/" style="text-decoration: none;">
+<a href="https://www.linkedin.com/in/diego-ramos-brito" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
