@@ -45,16 +45,6 @@ const myself = {
 ##
 
 <p align="center">
-  <img 
-    width="300"
-    height="250"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rms-diego&layout=compact&theme=dracula&langs_count=8" 
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img
-      width="300"
-      height="250"
-      src="https://github-readme-stats.vercel.app/api?username=rms-diego&show_icons=true&theme=dracula"
-    />
-
+  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rms-diego&layout=compact&theme=dracula&langs_count=8" />
+  <img width="300" src="https://github-readme-stats.vercel.app/api?username=rms-diego&show_icons=true&theme=dracula" />
 </p>
