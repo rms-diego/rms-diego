@@ -34,7 +34,7 @@ const myself = {
 # Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=golang,js,ts,nodejs,react,nest,express,graphql,docker,postgres,mysql,redis,mongo" />
+  <img src="https://skillicons.dev/icons?i=golang,js,ts,nodejs,svelte,react,nest,express,graphql,docker,postgres,mysql,redis,mongo" />
 </p>
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=golang,js,ts,nodejs,react,nest,express,graphql,docker,postgres,mysql,redis,mongo)](https://skillicons.dev) -->
